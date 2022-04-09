@@ -1,2 +1,2 @@
 # CourseOfLife
-Course of Life
+
